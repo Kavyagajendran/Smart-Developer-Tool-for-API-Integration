@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+playwright
+beautifulsoup4
+pydantic
+jinja2
+google-generativeai
+openai
+python-dotenv
+requests
